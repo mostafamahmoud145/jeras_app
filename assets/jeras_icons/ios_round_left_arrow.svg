@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.75" height="22.75" viewBox="0 0 22.75 22.75">
+    <defs>
+        <linearGradient id="to7v83h4ua" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#7b6c96"/>
+            <stop offset="1" stop-color="#ae9cce"/>
+        </linearGradient>
+    </defs>
+    <g data-name="Icon ionic-ios-arrow-dropleft">
+        <path data-name="Path 6931" d="M19.18 10.29a1.06 1.06 0 0 0-1.493 0l-5.217 5.234a1.054 1.054 0 0 0-.033 1.455l5.141 5.157a1.054 1.054 0 1 0 1.493-1.487l-4.364-4.43 4.479-4.435a1.055 1.055 0 0 0-.006-1.494z" transform="translate(-5.328 -4.843)" style="fill:url(#to7v83h4ua)"/>
+        <path data-name="Path 6932" d="M14.75 3.375A11.375 11.375 0 1 0 26.125 14.75 11.373 11.373 0 0 0 14.75 3.375zm6.8 18.178A9.621 9.621 0 1 1 7.947 7.947a9.621 9.621 0 1 1 13.606 13.606z" style="fill:url(#to7v83h4ua)" transform="translate(-3.375 -3.375)"/>
+    </g>
+</svg>

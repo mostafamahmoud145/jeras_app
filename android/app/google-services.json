@@ -1,0 +1,157 @@
+{
+  "project_info": {
+    "project_number": "511589229811",
+    "firebase_url": "https://app-jeras-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "app-jeras",
+    "storage_bucket": "app-jeras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511589229811:android:6959e7e8538aed4d9dc386",
+        "android_client_info": {
+          "package_name": "com.app.JerasAdmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511589229811-q224n592hp01tdgbdkdnvnhpborl7o9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbRa53VCFDl8xRbKFxvlbLEysuQUMYj80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511589229811-q224n592hp01tdgbdkdnvnhpborl7o9p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "511589229811-0o3p6t9pbpgrgofm5qe4l8mr680j9b86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.jeras",
+                "app_store_id": "1612021922"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511589229811:android:a7a7b6809616d0249dc386",
+        "android_client_info": {
+          "package_name": "com.app.jeras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511589229811-0ukpfaibpp2o3dg69dbb1im7ao4bge1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.jeras",
+            "certificate_hash": "b1b98d52d6832a3a3385fa068ae46cbc7525f490"
+          }
+        },
+        {
+          "client_id": "511589229811-30m754c2aph2o1fs2fohr014tdo00c6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.jeras",
+            "certificate_hash": "6d12fc9f38294590a9fd3059da68ecf94da66994"
+          }
+        },
+        {
+          "client_id": "511589229811-71vae1troe5ha6c3v58ntjr6ggu06m3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.jeras",
+            "certificate_hash": "e17e3b504d913c3a9fb88055c4674b9ef605f9b5"
+          }
+        },
+        {
+          "client_id": "511589229811-7jmlc5qnqr2282g4so216f0p2jkocfpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.jeras",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "511589229811-gmd0gndolk860eabvbun5dgnk93hc70c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.jeras",
+            "certificate_hash": "f1b8aa58258240b2fd0747a20846bbb53fa65ca7"
+          }
+        },
+        {
+          "client_id": "511589229811-i9png8r6i4ig4o828sku3i8i6ts2s7sh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.jeras",
+            "certificate_hash": "1699fa5d055a78ebdce5a290dc1fefcbaf969ca7"
+          }
+        },
+        {
+          "client_id": "511589229811-pqr2ia8n05qes1l69ll8thjpi524s0oh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.jeras",
+            "certificate_hash": "072b7cfaeaf19020a981243e67de0381f12248f0"
+          }
+        },
+        {
+          "client_id": "511589229811-umq1512es6u6sv50nh4ef7hs1m5m1fc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.jeras",
+            "certificate_hash": "70527829f53b3812a66c18f8fcd76d9c45439fdc"
+          }
+        },
+        {
+          "client_id": "511589229811-vhvcp8t8j85ce6uqs3p46b3v7sd2c631.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.jeras",
+            "certificate_hash": "c1a1b642248626335f3269a736968fd849194cb5"
+          }
+        },
+        {
+          "client_id": "511589229811-q224n592hp01tdgbdkdnvnhpborl7o9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbRa53VCFDl8xRbKFxvlbLEysuQUMYj80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511589229811-q224n592hp01tdgbdkdnvnhpborl7o9p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "511589229811-0o3p6t9pbpgrgofm5qe4l8mr680j9b86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.jeras",
+                "app_store_id": "1612021922"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

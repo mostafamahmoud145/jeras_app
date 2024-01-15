@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Accept button call text, useful for localization -->
+    <string name="accept_text">قبول</string>
+    <!-- Decline button call text, useful for localization -->
+    <string name="decline_text">رفض</string>
+    <!-- Missed call text, useful for localization -->
+    <string name="text_missed_call">مكالمة فائتة</string>
+    <!-- Callback button text, useful for localization -->
+    <string name="text_call_back">Call back</string>
+    <!-- Incoming call custom UI header, useful for localization -->
+    <!-- This can be set from Flutter as well when displaying incoming call -->
+    <string name="call_header">إتصال عن طريق غراس </string>
+
+</resources>
